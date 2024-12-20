@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+.pricing-title {
+  margin-top: 48px;
+  color: #36536b;
+  display: flex;
+  justify-content: center;
+}
+
+.free-plan {
+  display: flex;
+  flex-direction: column;
+}
+
+.free-plan-title {
+  color: #ba4270;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 32px;
+}
+
+.free-plan-cost {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 56px;
+  margin-top: 80px;
+  color: #36536b;
+}
+
+.all-advantages-free-plan {
+  border-top: 1px solid rgba(54, 83, 107, 0.25);
+  color: #36536B;
+  opacity: 0.5;
+}
+
+.all-advantages-free-plan-active {
+  list-style-image: url(../assets-projet/shared/desktop/icon-check.svg);
+  opacity: 1;
+}
