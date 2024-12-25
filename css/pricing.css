@@ -31,13 +31,97 @@
 
 .all-advantages-free-plan {
   border-top: 1px solid rgba(54, 83, 107, 0.25);
+  border-bottom: 1px solid rgba(54, 83, 107, 0.25);
   color: #36536B;
   opacity: 0.5;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .all-advantages-free-plan-active {
   list-style-image: url(../assets-projet/shared/desktop/icon-check.svg);
   opacity: 1;
 }
+
+.bouton-under-all-price {
+  color: #36536B;
+  border: 1px solid #36536B;
+  border-radius: 24px;
+  padding: 12px 28px;
+  width: 168px;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 48px;
+  margin-top: 24px;
+}
+
+.basic-plan {
+  display: flex;
+  flex-direction: column;
+}
+
+.basic-plan-title {
+  color: #ba4270;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 32px;
+}
+
+.basic-plan-cost {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 56px;
+  margin-top: 80px;
+  color: #36536b;
+}
+
+.all-advantages-basic-plan {
+  border-top: 1px solid rgba(54, 83, 107, 0.25);
+  border-bottom: 1px solid rgba(54, 83, 107, 0.25);
+  color: #36536B;
+  opacity: 0.5;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.premium-plan {
+  display: flex;
+  flex-direction: column;
+}
+
+.premium-plan-title {
+  color: #ba4270;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 32px;
+}
+
+.premium-plan-cost {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 56px;
+  margin-top: 80px;
+  color: #36536b;
+}
+
+.all-advantages-premium-plan {
+  border-top: 1px solid rgba(54, 83, 107, 0.25);
+  border-bottom: 1px solid rgba(54, 83, 107, 0.25);
+  color: #36536B;
+  opacity: 0.5;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
 
 
